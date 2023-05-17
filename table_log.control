@@ -1,0 +1,5 @@
+comment = 'Table log extension'
+default_version = '1.0'
+module_pathname = '$libdir/table_log'
+relocatable = true
+trusted = true
